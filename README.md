@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning ...<br>🎯 Goals: Maintain a study routine and code a little every day (or at least try 😅)<br>🎲 Fun fact:I'm Cosplayer</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Desenvolvendo aos poucos, aprendendo sempre. <br>🎯 Goals: Maintain a study routine and code a little every day (or at least try 😅)<br>🎲 Fun fact:I'm Cosplayer</p>
 
 ###
 
